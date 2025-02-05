@@ -1,0 +1,1 @@
+![7장 분산 시스템을 위한 유일 ID 생성기 설계](https://github.com/user-attachments/assets/7e9e97bf-cef4-4408-aa6b-85534f3b3ebf)

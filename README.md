@@ -5,7 +5,7 @@
 - [2권 링크](https://www.yes24.com/Product/Goods/124138645)
 
 
-### 🍀 MEMBER (각자 추가해주세요)
+### 🍀 MEMBER 
 <table>
     <td align="center"><a href="https://github.com/yunyoung1819"><img src="https://github.com/yunyoung1819.png" width="100px;" alt=""/><br /><sub><b>윤 영</b></sub></a><br />YUN YOUNG </a></td>
     <td align="center"><a href="https://github.com/ghrltjdtprbs"><img src="https://avatars.githubusercontent.com/u/105612931?v=4" width="100px;" alt=""/><br /><sub><b>최혜미</b></sub></a><br />CHOI HYEMI </a></td>
